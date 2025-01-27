@@ -3,3 +3,5 @@ This is after the first commit.
 
 This is in dev1. 
 This is second commit from dev1.
+
+This line is addded after cloning from bare repo
